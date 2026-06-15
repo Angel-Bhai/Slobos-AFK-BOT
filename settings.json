@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "RealGsEmpire.aternos.me",
     "port": 29195,
     "version": "1.21.1"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "GsEmpire"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "We are better then Frozen",
+        "There will be no admin abuse",
         "I like to play Minecraft!"
       ]
     },
@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -57,7 +57,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
@@ -69,8 +69,8 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": true,
